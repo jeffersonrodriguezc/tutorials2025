@@ -19,17 +19,25 @@ This tutorial combines detailed analysis and development of essential LLM concep
 ### Notebooks
 
 
-
 #### Part I: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part1_EXERCISES.ipynb)
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part1_SOLUTIONS.ipynb)
 
 
 #### Part II: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part2_EXERCISES.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part2_SOLUTIONS.ipynb)
+
 
 #### Part III: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part3_EXERCISES.ipynb)
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/1_llm/part3_SOLUTIONS.ipynb)
